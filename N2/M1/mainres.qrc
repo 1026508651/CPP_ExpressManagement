@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/navi_background.png</file>
+        <file>img/send.png</file>
+        <file>img/check.png</file>
+        <file>img/recv.png</file>
+        <file>img/user.png</file>
+        <file>img/pocket.png</file>
+        <file>img/plus.png</file>
+        <file>img/search.png</file>
+        <file>img/delete.png</file>
+    </qresource>
+</RCC>
